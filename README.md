@@ -80,7 +80,5 @@ subject
 edition
 seller_id
 price
-
 latitude
-
 longitude
